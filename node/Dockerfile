@@ -1,1 +1,1 @@
-FROM node:8.10
+FROM node:latest
