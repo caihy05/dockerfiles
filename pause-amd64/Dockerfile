@@ -1,1 +1,1 @@
-FROM pause-amd64v3.1
+FROM pause-amd64:3.1
