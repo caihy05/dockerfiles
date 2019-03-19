@@ -1,4 +1,3 @@
-# This file is used to execute e2e tests for the project.
 FROM python:2.7-alpine
 RUN pip install webapp2 && \
 pip install webob && \
